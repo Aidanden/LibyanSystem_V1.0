@@ -1,0 +1,17 @@
+{
+    "automatedNumber":1
+    "nationalNumber":119943602250
+    "registrNumber": 125321
+    "familyPaperNumber":10025
+    "firstName":"emhemed"
+    "fatherName":"ali"
+    "grandfatherName":"emhemed"
+    "lastName":"bin said"
+    "fullName":"emhemed ali emhemed bin said"
+    "dateOfBirth":"03-01-1994"
+    "motherFullName":"ناجية خميس ابوخشيم"
+    "motherNationality":"ليبية"
+    "gender":"ذكر"
+    "placeOfBirth":"لندن"
+    
+}
